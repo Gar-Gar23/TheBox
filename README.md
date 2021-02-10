@@ -2,8 +2,7 @@
 
 Using the following guide 
 just remember to be sure to *instal node.js* for your platform.
-Using the following link  
-*https://riptutorial.com/node-js/example/1169/hello-world-http-server* 
+Using the following [guide](https://riptutorial.com/node-js/example/1169/hello-world-http-server)
 we will create a simple *Hello world* http server 
 http
  : Hypertext Transfer protocol
