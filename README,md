@@ -1,6 +1,0 @@
-# The box
-this will be a simple Hello world website
-following this guide https://riptutorial.com/node-js/example/1169/hello-world-http-server
-one can create a http server 
-just remember to install node.js on your platform
-this module uses http to create applications 
