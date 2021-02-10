@@ -8,7 +8,7 @@ http.createServer((request, response) => {
     });
 
     // 2. Write the announced text to the body of the page
-    response.write('Hello, World!\n');
+    response.write('Hello, World! I am very dumb, but I will get better.\n');
 
     // 3. Tell the server that all of the response headers and body have been sent
     response.end();
