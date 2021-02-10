@@ -1,9 +1,8 @@
 ## creating a HTTP server
 
-Using the following guide 
-just remember to be sure to *instal node.js* for your platform.
-Using the following link  
-*https://riptutorial.com/node-js/example/1169/hello-world-http-server* 
+Using the [this guide](https://riptutorial.com/node-js/example/1169/hello-world-http-server) 
+just remember to be sure to install node.js for your platform.
+
 we will create a simple *Hello world* http server 
 http
  : Hypertext Transfer protocol
